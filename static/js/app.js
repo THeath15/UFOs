@@ -39,7 +39,6 @@ function updateFilters() {
     // 4c. Save the id of the filter that was changed as a variable. Create a variable that saves the "attribute of the changed element’s id".
     let filterId = changedElement.attr("id");
     console.log(filterId);
-    
     // 5. If a filter value was entered then add that "filterId" and value to the filters list. Otherwise, clear that filter from the filters object. 
     // Write an if-else statement that checks if a value was changed by the user elementValue. 
     // If a value was changed, add the element’s id, filterId, as the property and the value that was changed to the var filters. 
