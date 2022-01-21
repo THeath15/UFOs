@@ -1,7 +1,7 @@
 # UFOs - UFO Sightings with JavaScript
 
 # Overview of Project: 
-On this module we explore Javascript to build a dynamic webpage that will accept user inputs and visually adjust to reflect the entries and interaction. Dynamic webpage were built by inserting JavaScript into an HTML page. On this module also apply  our knowledge on CSS and Bootstrap and explore Chrome Devtools to test our codes.
+On this module we explore Javascript to build a dynamic webpage that will accept user inputs and visually adjust to reflect the entries and interaction. Dynamic webpage were built by inserting JavaScript into an HTML page. On this module we also apply  our knowledge on CSS and Bootstrap and explore Chrome Devtools to test our codes.
 
 ### Resources:
   - JavaScript
@@ -23,12 +23,18 @@ On this module we explore Javascript to build a dynamic webpage that will accept
 ![Filter screenshot by state](https://user-images.githubusercontent.com/92903447/150466925-00d293e4-e87b-470c-bcd7-26ce7dd82812.png)
 
 ## Webpage result when "el cajon" for state  and "light" for shape  is entered on filter box as a sample
-![Filter screenshot for city and shape](https://user-images.githubusercontent.com/92903447/150466861-ea388336-b8da-496b-ad0a-
-696bef6ec63d.png)
+![Filter screenshot for city and shape](https://user-images.githubusercontent.com/92903447/150470991-75f10044-b3e8-426e-9ae1-3e8874782124.png)
+
 
 # Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 ## Drawback:
-  1. When entering filter as an example for the "state" filter box, data requires a user input in lower case and no space at the end and should enter like how it was displayed and defaulted as a view data on the page.  Ex. filter will not return for "El cajon", "el cajon "search, but "el cajon" 
+  1. When entering filter as an example for the "state" filter box, data requires a user input in lower case and no space at the end and should enter like how it was displayed and defaulted as a view data on the page.  Ex. filter will not return for "El cajon", "el cajon "search, but "el cajon". 
+
+## Result using upper case sample
+![Upper case Screenshot ](https://user-images.githubusercontent.com/92903447/150471015-eef89d18-8ca8-4fd6-a07e-6fec4a54044a.png)
+## Result using lower case sample
+![lower case Screenshot](https://user-images.githubusercontent.com/92903447/150471119-99194aee-240f-4c4b-803d-9a7a75524dc5.png)
+
 
 ## Recommendations: 
   1. I would suggest  to use a drop down selection for user to use so they don't have to guess how data filter should be entered.
