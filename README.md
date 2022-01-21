@@ -12,7 +12,7 @@ On this module we explore Javascript to build a dynamic webpage that will accept
 
 
 # Results: 
-To  provide a more in-depth analysis of UFO sightings and to  allow users to filter for multiple criteria at the same time, as a deliverable requirement for  client,  we were asked in addition to the data filer, to add more table filters for the city, state, country, and shape as shown on the image screenshot below as default webpage. Each table element uses  the same id as object properties in the data.js file. The event listener is modified to detect changes to each filter  by creating functions that saves the element, value and data that was changed  and a table filter that will retun any data that matches the filter value. As a result, the webpage should update according to user inputs.
+To  provide a more in-depth analysis of UFO sightings and to  allow users to filter for multiple criteria at the same time, as a deliverable requirement for  client,  we were asked in addition to the data file, to add more table filters for the city, state, country, and shape as shown on the image screenshot below as default webpage. Each table element uses  the same id as object properties in the data.js file. The event listener is modified to detect changes to each filter  by creating functions that saves the element, value and data that was changed  and a table filter that will retun any data that matches the filter value. As a result, the webpage should update according to user inputs.
 
 ## Webpage default page 
 ![UFO webpage_screenshot](https://user-images.githubusercontent.com/92903447/150466807-fef9a560-baad-4ffc-ba58-af8c3b3213e4.png)
